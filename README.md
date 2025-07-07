@@ -135,7 +135,7 @@ Update `src/components/Projects.jsx`:
 For collaborations, feedback, or hiring:
 
 * 📧 Email: [bs8315@srmist.edu.in](mailto:bs8315@srmist.edu.in)
-* 💼 LinkedIn: [linkedin.com/in/bala-gopal-reddy-peddireddy](https://linkedin.com/in/bala-gopal-reddy-peddireddy)
+
 
 ---
 
