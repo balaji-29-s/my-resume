@@ -147,17 +147,5 @@ Licensed under [MIT License](LICENSE)
 
 ### ✨ Thank You for Visiting!
 
-````
 
----
-
-### ✅ What You Should Do Next:
-
-1. Paste this `README.md` into your repo root.
-2. Push it to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add custom README with deployment info"
-   git push origin main
-````
 
