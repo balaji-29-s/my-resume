@@ -55,11 +55,11 @@ const About = () => {
 
             <div className="space-y-8">
               <div className="border-l-2 border-teal-400 pl-4">
-                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">Software Intern (Ongoing)</h4>
+                <h4 className="text-xl font-semibold text-gray-800 dark:text-white">Data science Intern (Ongoing)</h4>
                 <p className="text-teal-400">NIT Puducherry</p>
                 <p className="text-gray-500 dark:text-gray-400">2-Month Internship</p>
                 <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 mt-2">
-                  <li>Working on real-world AI/ML research projects.</li>
+                  <li>Working on real-world AI deep learning research projects.</li>
                   <li>Collaborating with NIT faculty for model experimentation.</li>
                 </ul>
               </div>
